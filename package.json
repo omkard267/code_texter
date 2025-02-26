@@ -1,0 +1,8 @@
+{
+  "dependencies": {
+    "express": "^4.21.2",
+    "monaco-editor": "^0.52.2",
+    "socket.io": "^4.8.1",
+    "vm2": "^3.9.19"
+  }
+}
